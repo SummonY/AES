@@ -1,1 +1,7 @@
-*.o
+
+
+# ignore binary/compiled file
+*.[oa]
+
+# ignore tempory file
+*~
