@@ -1,7 +1,8 @@
-
-
 # ignore binary/compiled file
 *.[oa]
 
 # ignore tempory file
 *~
+
+# ignore vim swp file
+.*.swp
